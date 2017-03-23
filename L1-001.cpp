@@ -1,5 +1,4 @@
-L1-001. Hello World
-
+/*L1-001. Hello World
 时间限制
 400 ms
 内存限制
@@ -9,8 +8,7 @@ L1-001. Hello World
 判题程序
 Standard
 这道超级简单的题目没有任何输入。
-
-你只需要在一行中输出著名短句“Hello World!”就可以了。
+你只需要在一行中输出著名短句“Hello World!”就可以了。*/
 
 #include<iostream>
 using namespace std;
