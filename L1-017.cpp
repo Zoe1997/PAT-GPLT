@@ -47,7 +47,7 @@ int main()
     }
     else if(num1[0]!='-'&&(num1[len-1]=='0'||num1[len-1]=='2'||num1[len-1]=='4'||num1[len-1]=='6'||num1[len-1]=='8'))
     {
-        num3=count/len*100;
+        num3=count/len*2*100;
     }
     else
     {
