@@ -49,6 +49,10 @@ int main()
     {
         num3=count/len*100;
     }
+    else
+    {
+      num3=count/len*100;
+    }
     printf("%.2f%%",num3);
     return 0;
 }
